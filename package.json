@@ -1,0 +1,16 @@
+{
+  "name": "pseudoid",
+  "version": "0.0.1",
+  "description": "Generate a pseudo id string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Id",
+    "pseudoid",
+    "testing"
+  ],
+  "author": "Thomas Eng",
+  "license": "ISC"
+}
