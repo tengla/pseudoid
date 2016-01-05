@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "Generate a pseudo id string.",
   "main": "index.js",
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/athlite/pseudoid.git"
+  },
   "scripts": {
     "test": "./node_modules/.bin/lab"
   },
