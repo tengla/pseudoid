@@ -4,7 +4,7 @@
   "description": "Generate a pseudo id string.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/lab"
   },
   "keywords": [
     "Id",
@@ -12,5 +12,9 @@
     "testing"
   ],
   "author": "Thomas Eng",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "code": "^2.1.0",
+    "lab": "^8.0.1"
+  }
 }
